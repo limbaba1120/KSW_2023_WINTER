@@ -175,6 +175,3 @@ In urban area, goTenna showed more reliable message delivery with higher RSSI va
 <img src="./code/imgs/Result_Farm.png"  width="1000" height="300" align="center">
 
 In rural areas, both devices were able to maintain connectivity at distances greater than 9 km. This demonstrates that with the proper placement of relay nodes, the mesh network can be effectively scaled over long distances.
-
-
-# KSW_2023_WINTER
