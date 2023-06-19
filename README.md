@@ -18,7 +18,7 @@
 - Interested in **semiconductor**
 
 ### Keonwoo Lim 🧸
-- **Kyeonggi University**
+- **Kyonggi University**
 - Major in computer engineering
 - **Web development - Java(spring) Backend**
 - A bit of frontend
