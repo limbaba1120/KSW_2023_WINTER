@@ -22,7 +22,6 @@
 - Major in computer engineering
 - **Web development - Java(spring) Backend**
 - A bit of frontend
-- Android Java App development
 
 ### Sujee Noh 🐣
 - **Chonnam National University**
